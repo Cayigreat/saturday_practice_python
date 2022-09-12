@@ -6,7 +6,7 @@ str_two = "system"
 
 # Juntemos uno o más strings se denomina concatenar. En python se puede contatenar utilizando el operador '+'
 print (str_one + " " + str_two)
-print /str_one + str_two)
+print (str_one + str_two)
 
 # Ojo con la ',' la función print NO
 # concatena

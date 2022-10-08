@@ -8,4 +8,4 @@ def multiplication_table(number = 1):
         print(number, "x", i, "=", number *i)     
     
 multiplication_table(2)
-multiplication_table(7)
+multiplication_table(12)

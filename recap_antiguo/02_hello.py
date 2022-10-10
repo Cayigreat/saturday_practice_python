@@ -1,33 +1,31 @@
-# Las variables son nombres que apuntan a algun valor
-# y el valor es de cierto tipo
+# Las variables son nombres que apuntan a un valor
+# Y el valor es de cierto tipo
 
 name = "stranger"
 
-# No pueden comenzar con numeros ni palabras reservadas
-# Es muy aconsejable no utilizar mayusculas ni acentos
-# Para separar nombres largos, utilizar el "_"
+# No pueden comenzar con números ni palabras reservadas
+# Es muy aconsejable no utilizar ni mayúsculas ni acentos
+# Para separar nombres largos utilizar "_" (underscore)
 
-long_name_variable = "something"
-longaniza = "Chillan"
+long_name_variable = "Something"
+longaniza = "Chillán"
 
-print(name, long_name_variable, longaniza)
+print (name, long_name_variable, longaniza)
 
-# Podemos saber el tipo (class) de variable con la funcion Type
-print(type(longaniza), type(name), type(long_name_variable))
+# Podemos saber el tipo(class) de la variable con la función type
+
+print (type(longaniza),type(name), type (long_name_variable))
 
 # Otros tipos frecuentes
 
-#Int
+# int
 number = 42
-print(type(number)
 
-#bool
-is_real = True
+# bool
+is_real = True 
 not_real = False
-print(type(is_real), type(not_real))
+print (type (is_real),type(not_real))
 
-#float
+# float
 decimal = 1.0
-print(type(decimal))
-
-
+print (type (decimal))

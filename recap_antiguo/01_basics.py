@@ -1,21 +1,24 @@
-#Comentarios para los desarrolladores
-#Esto pyhton no lo ejecuta
+# Comentarios para los desarrolladores
+# Esto python no los ejecuta
 
-#Python es un lenguaje de programacion de alto nivel
-#Podemos escribir Python en un archivo con extension .py
-#o podemos escribir Python directamente en el interprete
+# Python es un lenguaje de programación de alto nivel
+# Podemos escribir Pyhton en un archivo con extensión .py
+# O podemos escribir python directamente en el intérprete
 
-# Python es 2 cosas a la vez
+# Python es dos cosas a la vez 
 
-# 1: es el lenguaje
-# 2: el programa (el interprete)
+# 1: Es el lenguaje
+# 2: El programa (el interprete)
 
-print("Hello")
+print ("Hello")
 
-# Cuando entramos directamente al interprete, es decir, ejecutando Python 
+# Cuando entramos directamente al interprete, es decir, ejecutando: python
 # Se dice que estamos en el modo "Interactivo"
-# Pero cuando ejecutamos un archivo con extension .py, se dice que estamos en el modo de "scripting"
 
-# Python 01_basics.py
+# Pero cuando ejecutamos un archico con extensión .py, se dice que estamos en el modo de "scripting"
+
+# python 01_basics.py
 
 # En general los programas se hacen pensando para ser ejecutado en modo scripting
+
+

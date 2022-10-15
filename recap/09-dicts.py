@@ -6,5 +6,5 @@ new_dict = {
     'age' : 4
 }
 
-print('Hola me llamo' new_dict['name'], new_dict[last_name])
+print('Hola me llamo', new_dict['name'], new_dict['last_name'])
 print('y tengo', new_dict['age'], 'años.')

@@ -5,4 +5,4 @@ def square_area(side):
 
 area = square_area(2)    
 
-print('El are de una alfombra cuadrada de 2 metros de lado es:'area)
+print('El area de una alfombra cuadrada de 2 metros de lado es:',area)

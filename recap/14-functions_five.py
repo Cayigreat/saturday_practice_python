@@ -1,44 +1,35 @@
-import math
 
 # Crear una funcion que imprima los numeros divisibles por tres hasta el numero n
 
 def  divisibles_by_three(n):
-    print("##############")
-    for number in range(1, n + 1):
-        if number % 3 == 0:
-            print(number)          
+    #tu codigo
+
+divisibles_by_three(50)
 
 
-divisibles_by_three(50)              
-    
-
-# Crear una funcion que sume todos los numeros hasta el n
+# Crear una función que sume los números hasta el número n 
 
 def sum_up_to(n):
-    acc = 0
-    
-    print("############")
-    for number in range(1, n + 1):
-        acc = acc + number
-    print(acc)
+    #tu codigo
 
-# Otra forma abreviada de usar el acumulador es acc += number
-print sum_up_to(20)
+print(sum_up_to(20))   
+
 
 # Crear una funcion que calcule el volumen de una esfera de radio r
 
 def ball_volume(r):
-    volume = 4/3*math.pi*r**3
-    return volume
+    #tu codigo
 
-result = ball_volume(15)
-print(result)
+print(ball_volume(15))    
 
-# Crear una funcion que entregue el volumen de un cilindro de radio r y altura h
+
+# Crear una función que entregue el volumen de un cilindro de radio r y altura h
 
 def cylinder_volume(r,h):
-    volume = math.pi*r**2*h
-    return volume
+    #tu codigo
 
-result = cylinder_volume(10,5)
-print(result)    
+print(cylinder_volume(10,5))
+
+
+
+
